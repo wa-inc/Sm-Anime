@@ -32,7 +32,7 @@ You can download the latest release of Sm Anime Client from the [Releases](https
 
 ### Chrome & Kiwi Browser
 
-1. **Download**: Download the Sm Anime Client extension from the Chrome Web Store or Firefox Add-ons.
+1. **Download**: "See the download section"
 2. **Install**: Click on the extension icon in your browser's toolbar and select "Manage extensions".
 3. **Enable Developer Mode**: Toggle on the "Developer mode" switch.
 4. **Load Unpacked**: Click on "Load unpacked" and select the extracted extension folder.

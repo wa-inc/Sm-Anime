@@ -27,7 +27,7 @@ You can download the latest release of Sm Anime Client from the [Releases](https
 
 - [![Sm Anime](https://img.shields.io/badge/Sm_Anime-Visit-9cf)](https://cdn3.xsanime.live/)
 - [![Supercark](https://img.shields.io/badge/Supercark-Visit-blue)](https://supercark.com/sz_sz/)
-- [![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-Visit-green)](chrome://extensions)
+- [![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-Visit-green)](chrome://extensions) "chrome://extensions"
 
 
 ## Installation 🚀

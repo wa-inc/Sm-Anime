@@ -19,10 +19,14 @@ The Sm Anime Client is a browser extension designed to enhance your anime stream
 - **Quality Selection:** ⚙️ Choose the video quality based on your internet connection.
 - **History Tracking:** 📅 Keep track of your viewing history for quick reference.
 
+## Download 🚀
+
+You can download the latest release of Sm Anime Client from the [Releases](https://github.com/wa-inc/Sm-Anime/releases/tag/v1.0) page
+
 ## Supported Websites 🌐
 
-- ![Sm Anime](https://img.shields.io/badge/Sm_Anime-Visit-9cf)
-- ![Supercark](https://img.shields.io/badge/Supercark-Visit-blue)
+- [![Sm Anime](https://img.shields.io/badge/Sm_Anime-Visit-9cf)](https://cdn3.xsanime.live/)
+- [![Supercark](https://img.shields.io/badge/Supercark-Visit-blue)](https://supercark.com/sz_sz/)
 
 ## Installation 🚀
 
